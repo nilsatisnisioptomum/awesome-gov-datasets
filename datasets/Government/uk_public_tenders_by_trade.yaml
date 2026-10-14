@@ -1,0 +1,32 @@
+name: UK Public Tenders by Trade
+description: >-
+  Live open UK public-sector tenders by trade from Find a Tender and Contracts Finder
+  (OGL v3.0), free JSON/CSV API and RSS, no key. Republished/derived snapshot by GPT Shop Ltd
+  with attribution; not an official UK Government publisher.
+source_url: https://sme-free-tools.pages.dev/api/uk-tenders/
+open_data: true
+made_by_ukgov: false
+topic: Government
+subtopics:
+  - Public Procurement
+  - Tenders
+  - Contracts
+  - Open Data APIs
+format: JSON, CSV, RSS
+is_active: true
+update_frequency: Daily
+licence: Open Government Licence v3.0
+coverage:
+  spatial: United Kingdom
+tags:
+  - procurement
+  - tenders
+  - contracts
+  - find-a-tender
+  - contracts-finder
+  - open-data
+  - api
+use_case_ideas:
+  - Monitor open UK tenders by trade in spreadsheets or no-code tools
+  - Subscribe via RSS for new notices across trades
+  - Prototype SME bid pipelines without a paid tender-alert subscription
